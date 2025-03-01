@@ -7,8 +7,8 @@
 
 
 ## 📝 Case Report
-- You can access the complete Case python file here - [Python](https://github.com/KasiMuthuveerappan/LoanTap-LogisticRegression/blob/main/LoanTap_k-Mastercopy.ipynb)
-- You can access the complete Casestudy in pdf format here - [Report](https://github.com/KasiMuthuveerappan/LoanTap-LogisticRegression/blob/main/LoanTap_k-Mastercopy.pdf)
+- You can access the complete Case python file here - [Python](Add link here)
+- You can access the complete Casestudy in pdf format here - [Report](Add link here)
 
 ## 💳Introduction:
 
